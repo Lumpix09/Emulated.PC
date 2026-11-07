@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build-Dateien
+bin/
+obj/
+
+# Benutzereinstellungen
+*.user
+*.suo
