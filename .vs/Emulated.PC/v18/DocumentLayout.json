@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programme_C#\\Lumpix09\\Emulated.PC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242F1AD8-65FE-4FE2-AD6C-C0B1DE3FF002}|Lumpix.Emulated.PC\\Lumpix.Emulated.PC.csproj|e:\\programme_c#\\lumpix09\\emulated.pc\\lumpix.emulated.pc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{242F1AD8-65FE-4FE2-AD6C-C0B1DE3FF002}|Lumpix.Emulated.PC\\Lumpix.Emulated.PC.csproj|solutionrelative:lumpix.emulated.pc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242F1AD8-65FE-4FE2-AD6C-C0B1DE3FF002}|Lumpix.Emulated.PC\\Lumpix.Emulated.PC.csproj|e:\\programme_c#\\lumpix09\\emulated.pc\\lumpix.emulated.pc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242F1AD8-65FE-4FE2-AD6C-C0B1DE3FF002}|Lumpix.Emulated.PC\\Lumpix.Emulated.PC.csproj|solutionrelative:lumpix.emulated.pc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Programme_C#\\Lumpix09\\Emulated.PC\\Lumpix.Emulated.PC\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lumpix.Emulated.PC\\MainWindow.xaml",
+              "ToolTip": "E:\\Programme_C#\\Lumpix09\\Emulated.PC\\Lumpix.Emulated.PC\\MainWindow.xaml",
+              "RelativeToolTip": "Lumpix.Emulated.PC\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-07T19:58:44.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Programme_C#\\Lumpix09\\Emulated.PC\\Lumpix.Emulated.PC\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lumpix.Emulated.PC\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Programme_C#\\Lumpix09\\Emulated.PC\\Lumpix.Emulated.PC\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lumpix.Emulated.PC\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:58:44.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
