@@ -32,6 +32,8 @@ namespace Lumpix.Emulated.PC.Pages
             {
                 string new_pass = getHashSha256(NewPasswordTextBox.Password);
                 File.WriteAllText("password.txt", new_pass);
+                NavigationService.Navigate(new Main_Desktop());
+                MessageBox.Show("Password changed successful!", "New Password", MessageBoxButton.OK, MessageBoxImage.Information);
             }
             else
             {
@@ -41,7 +43,7 @@ namespace Lumpix.Emulated.PC.Pages
         public static string getHashSha256(string text)
         {
             byte[] bytes = Encoding.Unicode.GetBytes(text);
-            SHA256Managed hashstring = new SHA256Managed();
+            using SHA256 hashstring = SHA256.Create();
             byte[] hash = hashstring.ComputeHash(bytes);
             string hashString = string.Empty;
             foreach (byte x in hash)

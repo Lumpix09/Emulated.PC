@@ -56,6 +56,11 @@ namespace Lumpix.Emulated.PC.Pages
                 {
                     NavigationService.Navigate(new New_pass());
                 }
+                else
+                {
+                    NavigationService.Navigate(new Main_Desktop());
+                    MessageBox.Show("Login successful!", "Login", MessageBoxButton.OK, MessageBoxImage.Information);
+                }
             }
             else
             {
@@ -65,7 +70,7 @@ namespace Lumpix.Emulated.PC.Pages
         public static string getHashSha256(string text)
         {
             byte[] bytes = Encoding.Unicode.GetBytes(text);
-            SHA256Managed hashstring = new SHA256Managed();
+            using SHA256 hashstring = SHA256.Create();
             byte[] hash = hashstring.ComputeHash(bytes);
             string hashString = string.Empty;
             foreach (byte x in hash)
